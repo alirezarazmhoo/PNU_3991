@@ -18,8 +18,8 @@
 - [خلاصه ارزیابی بخش عمومی]()
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/alirezarazmhoo/PNU_3991/blob/main/XX_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/alirezarazmhoo/PNU_3991/blob/main/XX_SoftwareArchitecture_CheckList_AR_3991.pdf)
 
 ------------------
 ## گروه ها
