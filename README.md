@@ -7,37 +7,6 @@
 - [Certificates](https://www.sololearn.com/Certificate/1024-20710481/jpg)
 - [GitHub](https://github.com/alirezarazmhoo)
 --------------------------
-## سیاهه ارزشیابی درس
-
- <summary>فعالیت های مشترک همه دانشجویان</summary>
-    
-1. **فعالیت های مشترک همه دانشجویان**
-    1. ساخت اکانت گیت هاب
-    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهای درسی
-    8. ارایه الگوریتم Facade در javascript (https://drive.google.com/file/d/1VaLVv-pXCgfdVUW9itnlFUgDe0d1EQrN/view?usp=sharing)
-
-    
-2. **پروژه هم خوانی**
-      - **تعریف** 
-          - ایجاد بستر مشارکت جمعی در خوانش و هم خوانی و درک مفاهیم و برگردان زبانی کتابهای تخصصی میباشد 
-      - **فعالیت های دانشجویی** 
-           - تلاش های گروهی مرتبط با فرایند نرم افزار
-
-3. **هم خوانی کتاب**
-    - [An Executive’s Guide to Software Quality in an Agile Organization: A Continuous Improvement Journey](http://library.lol/main/01157942A7F8B2FAAA9F6DB6F7F5C2A7) 
-      - **فعالیت های دانشجویی** 
-           - همخوانی و همفکری در درک مفاهیم و برگردان زبانی متن تخصصی کتاب
-
-4. **پروژه های کوچک کاربردی**
-    - مشارکت در پروژه های درسی کوچک و مستقل
-
-
--------------------------
 
 > ارزیابی ها
 
@@ -50,16 +19,6 @@
 - [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
 
 ------------------
-
-
-
-
-
-
-
-
-
-
 ## گروه ها
 
 <a name="G-A01"></a>
@@ -72,7 +31,6 @@
 </div>
      
 ## روز و ساعت ارائه دروس
-
 </div>
 
 <div dir="ltr">
