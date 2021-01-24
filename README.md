@@ -7,7 +7,7 @@
 - [Certificates](https://www.sololearn.com/Certificate/1024-20710481/jpg)
 - [GitHub](https://github.com/alirezarazmhoo)
 - [Patchwork](https://github.com/jlord/patchwork/pull/38475)
-- [PatchworkPicture](https://github.com/jlord/patchwork/pull/38475)
+- [PatchworkPicture](https://github.com/alirezarazmhoo/PNU_3991/blob/main/124.png)
 --------------------------
 
 <p>در صورت تمایل میتوانید به بخش ریپازیتوری های گیت هاب من بروید و نمونه ای از پروژه های تجاری برنامه نویسی که توسط تیم بنده نوشته شده است را مشاهده فرمایید </p>
