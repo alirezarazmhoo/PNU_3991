@@ -22,7 +22,7 @@
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/alirezarazmhoo/PNU_3991/blob/main/XX_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/alirezarazmhoo/PNU_3991/blob/main/XX_SoftwareArchitecture_CheckList_AR_3991.pdf)
-## [نمونه ای از فعالیت همخوانی در criwding](https://github.com/alirezarazmhoo/PNU_3991/blob/main/124.png)
+## [نمونه ای از فعالیت همخوانی در criwding](https://github.com/alirezarazmhoo/PNU_3991/blob/main/143.png)
 ------------------
 ## گروه ها
 
